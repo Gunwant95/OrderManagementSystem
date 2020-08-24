@@ -1,0 +1,10 @@
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\bin\Debug\OrderAccess.dll.config
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\bin\Debug\OrderAccess.dll
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\bin\Debug\OrderAccess.pdb
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\bin\Debug\EntityFramework.dll
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\bin\Debug\EntityFramework.xml
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\obj\Debug\OrderAccess.csprojResolveAssemblyReference.cache
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\obj\Debug\OrderAccess.dll
+E:\Backup_02_2020\Net\WebApiDemo_Sql\OrderAccess\obj\Debug\OrderAccess.pdb

@@ -1,0 +1,4 @@
+E:\Backup_02_2020\Net\ConsoleApp1_cloud\ConsoleApp1_cloud\bin\Debug\ConsoleApp1_cloud.exe.config
+E:\Backup_02_2020\Net\ConsoleApp1_cloud\ConsoleApp1_cloud\obj\Debug\ConsoleApp1_cloud.csprojResolveAssemblyReference.cache
+E:\Backup_02_2020\Net\ConsoleApp1_cloud\ConsoleApp1_cloud\obj\Debug\ConsoleApp1_cloud.exe
+E:\Backup_02_2020\Net\ConsoleApp1_cloud\ConsoleApp1_cloud\obj\Debug\ConsoleApp1_cloud.pdb

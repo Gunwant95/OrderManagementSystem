@@ -1,0 +1,6 @@
+E:\Net\PhoneBookApp\PhoneBookApp\bin\PhoneBookApp.dll.config
+E:\Net\PhoneBookApp\PhoneBookApp\bin\PhoneBookApp.dll
+E:\Net\PhoneBookApp\PhoneBookApp\bin\PhoneBookApp.pdb
+E:\Net\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.csprojResolveAssemblyReference.cache
+E:\Net\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.dll
+E:\Net\PhoneBookApp\PhoneBookApp\obj\Debug\PhoneBookApp.pdb

@@ -1,0 +1,11 @@
+E:\Net\CacheConnect\CacheConnect\bin\Debug\CacheConnect.exe.config
+E:\Net\CacheConnect\CacheConnect\bin\Debug\CacheConnect.exe
+E:\Net\CacheConnect\CacheConnect\bin\Debug\CacheConnect.pdb
+E:\Net\CacheConnect\CacheConnect\bin\Debug\InterSystems.Data.CacheClient.dll
+E:\Net\CacheConnect\CacheConnect\bin\Debug\InterSystems.Data.CacheClient.xml
+E:\Net\CacheConnect\CacheConnect\obj\Debug\CacheConnect.csprojResolveAssemblyReference.cache
+E:\Net\CacheConnect\CacheConnect\obj\Debug\CacheConnect.Form1.resources
+E:\Net\CacheConnect\CacheConnect\obj\Debug\CacheConnect.Properties.Resources.resources
+E:\Net\CacheConnect\CacheConnect\obj\Debug\CacheConnect.csproj.GenerateResource.Cache
+E:\Net\CacheConnect\CacheConnect\obj\Debug\CacheConnect.exe
+E:\Net\CacheConnect\CacheConnect\obj\Debug\CacheConnect.pdb

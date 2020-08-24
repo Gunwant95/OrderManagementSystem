@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="EmployeesNew">
+    <Key>
+      <PropertyRef Name="E_id" />
+    </Key>
+    <Property Name="E_id" Type="int" Nullable="false" />
+    <Property Name="E_name" Type="varchar" MaxLength="20" />
+    <Property Name="Sal" Type="int" />
+    <Property Name="E_address" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityContainer Name="EmployeeModel1StoreContainer">
+    <EntitySet Name="EmployeesNew" EntityType="Self.EmployeesNew" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

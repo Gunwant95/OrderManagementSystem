@@ -1,0 +1,70 @@
+﻿
+@{
+    //ViewBag.Title = "Index";
+    Layout = null;
+    var name = "Gunwant";
+    var value = 20;
+}
+
+<!Doctype html>
+<html>
+    <head>
+        <meta name="viewport" width="device-width" />
+        <title>This is Razor Demo</title>
+    </head>
+    <body>
+        <h2>Gunwant Razor</h2>
+        <h4>@name</h4>
+        <p>Date Time: @DateTime.Now.ToString("D")</p>
+        <p>@(2+5)</p>
+        Html.Raw("<script>alert("This is system failure")</script>")
+        @("<script>alert('This is alert box')</script>")
+        @{
+            var name1 = "GSK";
+            <h4>This is @name1</h4>
+        }
+        @for(var i=0;i<5;i++)
+        {
+           // <text>i=@i</text>
+           <h2>i=@i</h2>
+        }
+
+        <hr/>
+        @if(value>100)
+        {
+            <p>The value is greater than 100</p>
+        }
+        else
+        {
+            <p>The value is less than 100</p>
+        }
+
+        @if (value == 100)
+        {
+            <p>The value is equal to 100</p>
+        }
+        else if (value > 100)
+        {
+            <p>The value is greater than 100</p>
+        }
+        else
+        {
+            <p>The value is less than 100</p>
+        }
+
+        @switch(value)
+        {
+            case 1:
+                <p>value is 1</p>
+                break;
+            case 2:
+                <p>value 2</p>
+                break;
+            default:
+                <p>This is switch case</p>
+                break;
+        }
+    </body>
+</html>
+
+

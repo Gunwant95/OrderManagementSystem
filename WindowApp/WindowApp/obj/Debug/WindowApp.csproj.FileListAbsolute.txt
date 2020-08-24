@@ -1,0 +1,8 @@
+E:\Net\WindowApp\WindowApp\bin\Debug\WindowApp.exe
+E:\Net\WindowApp\WindowApp\bin\Debug\WindowApp.pdb
+E:\Net\WindowApp\WindowApp\obj\Debug\WindowApp.csprojResolveAssemblyReference.cache
+E:\Net\WindowApp\WindowApp\obj\Debug\WindowApp.Form1.resources
+E:\Net\WindowApp\WindowApp\obj\Debug\WindowApp.Properties.Resources.resources
+E:\Net\WindowApp\WindowApp\obj\Debug\WindowApp.csproj.GenerateResource.Cache
+E:\Net\WindowApp\WindowApp\obj\Debug\WindowApp.exe
+E:\Net\WindowApp\WindowApp\obj\Debug\WindowApp.pdb

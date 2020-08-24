@@ -1,0 +1,45 @@
+﻿<!--
+
+@*
+
+@{
+    ViewBag.Title = "Index";
+}
+*@
+
+<h2>Index</h2>
+
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>List of Courses</h2>
+    <ul>
+       @*  @{
+    foreach(var cources in ViewData["cources"] as List<string>)
+    {
+        <li>@cources</li>
+    }
+    *@
+    @*
+    @{
+        foreach (var Courses in ViewBag.cources)
+        {
+            <li> @Courses</li>
+        }
+    }
+    *@
+        @{ 
+            foreach(var cource in TempData["cources"] as List<string>)
+            {
+                <li>@cource</li>
+            }
+        }
+    </ul>
+</body>
+</html>  

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "MyView";
+}
+
+<hr />
+<h3>User Registration Form</h3>
+<hr />
+
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("Registration", "Student"))
+    {
+        <div class="form-group">
+            @Html.Label("User Name", new { @class = "control-label col-sm-2" })
+            <div class="col-sm-10">
+                @Html.TextBox("username", null, new { @class = "form-control" })
+            </div>
+        </div>
+
+        @Html.Partial("PartialViewDemo")
+
+        <div class="form-group">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-10">
+                <input type="submit" value="submit" class="btn btn-primary" />
+            </div>
+        </div>
+    }
+</div>
